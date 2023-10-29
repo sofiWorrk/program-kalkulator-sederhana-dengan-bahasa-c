@@ -10,7 +10,7 @@ int main(){
 	
 	if(toto>=100){
 		cout<<" =======================================\n";
-		cout<<"  Anda Mendapatkan Diskon 50%\n ";
+		cout<<"  Anda Mendapatkan Diskon Sebesar 50%\n ";
 		cout<<"=======================================\n";
 		diskon=toto-0.5;
 	}else if (toto<=100){
